@@ -1,0 +1,16 @@
+#spring:
+#  application:
+#    name: ssa-restApi-get-ssn-number
+#    
+#  boot:
+#    admin:
+#      client:
+#        url: http://localhost:8081/
+#        
+#management:
+#  endpoints:
+#    web:
+#      exposure:
+#        include:
+#        - '*'    
+  
